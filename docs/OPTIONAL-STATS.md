@@ -1,6 +1,6 @@
 # Optional GitHub activity
 
-The default README is complete without activity cards. Dhaval's exact GitHub username was not provided, so it contains no guessed account links or misleading statistics.
+The default README is complete without activity cards. The exact DI Solutions GitHub username was not provided, so it contains no guessed account links or misleading statistics.
 
 ## Add a contribution-streak card
 
@@ -11,7 +11,7 @@ Replace BOTH occurrences of `YOUR_GITHUB_USERNAME` below with the confirmed user
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&amp;theme=transparent&amp;hide_border=true" alt="Dhaval's GitHub contribution streak" width="495">
+    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&amp;theme=transparent&amp;hide_border=true" alt="DI Solutions GitHub contribution streak" width="495">
   </a>
 </p>
 ```
