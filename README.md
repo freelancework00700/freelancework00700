@@ -1,5 +1,5 @@
 <!--
-  DI solutions | GitHub profile README
+  DI Solutions | GitHub profile README
   Keep README.md at the root of your public username/username repository.
   Upload the entire assets folder with this file. No username is hard-coded.
   Publishing instructions: docs/SETUP.md. Content notes: docs/SOURCES.md.
@@ -8,13 +8,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" alt="DI solutions - Founder at DI Solutions. Ideas into products. Products into impact." width="100%">
+  <img src="./assets/hero-dark.svg" alt="DI Solutions - AI, web and mobile product engineering. Ideas into products. Products into impact." width="100%">
 </picture>
 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhavalbhanderi/"><img src="./assets/linkedin.svg" alt="Connect with Dhaval on LinkedIn" height="40"></a>
+  <a href="https://www.linkedin.com/in/dhavalbhanderi/"><img src="./assets/linkedin.svg" alt="Connect with DI Solutions on LinkedIn" height="40"></a>
   &nbsp;
   <a href="https://disolutions.net/"><img src="./assets/website.svg" alt="Visit DI Solutions" height="40"></a>
   &nbsp;
@@ -28,11 +28,11 @@
 
 ---
 
-## Hello, I'm Dhaval.
+## Hello, we're DI Solutions.
 
-I'm the founder of **[DI Solutions](https://disolutions.net/)**. I work with startups and growing businesses to turn ideas into useful software, bringing together product thinking, engineering, and a team that cares about the outcome.
+We partner with startups and growing businesses to turn ideas into useful software, combining product thinking, engineering, and a team that cares about the outcome.
 
-At DI Solutions, we build across **web, mobile, enterprise software, and AI**. I believe the best technology should make a business simpler to run and a product easier to use.
+We build across **web, mobile, enterprise software, cloud, and AI**. Our goal is simple: make technology easier to use, easier to scale, and valuable to the business behind it.
 
 > Understand the problem. Build with purpose. Keep making it better.
 
@@ -132,7 +132,7 @@ A few highlights from the **[DI Solutions public portfolio](https://disolutions.
 </table>
 
 <details>
-  <summary><strong>A little more about how I approach a project</strong></summary>
+  <summary><strong>A little more about how we approach a project</strong></summary>
 
 ### Start with the problem, not the stack.
 
