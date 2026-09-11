@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="456" viewBox="0 0 1280 456" role="img" aria-labelledby="title desc">
+<title id="title">Dhaval Bhanderi - Founder at DI Solutions</title>
+<desc id="desc">Ideas into products. Products into impact. AI, web and mobile engineering.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1B2940" stroke-width="1"/></pattern>
+ <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#6FE4D5"/><stop offset="1" stop-color="#B8ABFF"/></linearGradient>
+ <clipPath id="round"><rect x="1" y="1" width="1278" height="454" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1280" height="456" fill="#0B1120"/>
+ <rect x="672" width="608" height="456" fill="url(#grid)"/>
+ <path d="M651 0V456" stroke="#26344B"/>
+ <circle cx="1120" cy="118" r="165" fill="none" stroke="#26344B"/>
+ <circle cx="1120" cy="118" r="197" fill="none" stroke="#26344B"/>
+ <rect x="56" y="48" width="8" height="8" rx="2" fill="#6FE4D5"/>
+ <text x="78" y="58" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#9CABBF">FOUNDER / DI SOLUTIONS</text>
+ <text x="53" y="160" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#F4F7FC">DHAVAL</text>
+ <text x="53" y="250" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#F4F7FC">BHANDERI<tspan fill="#6FE4D5">.</tspan></text>
+ <text x="58" y="302" font-family="Arial, sans-serif" font-size="24" fill="#9CABBF">Ideas into products.</text>
+ <text x="58" y="334" font-family="Arial, sans-serif" font-size="24" fill="#F4F7FC">Products into impact.</text>
+ <rect x="714" y="94" width="510" height="242" rx="14" fill="#111C2E" stroke="#26344B"/>
+ <path d="M714 140H1224" stroke="#26344B"/>
+ <circle cx="739" cy="117" r="4.5" fill="#6FE4D5"/>
+ <circle cx="756" cy="117" r="4.5" fill="#B8ABFF"/>
+ <circle cx="773" cy="117" r="4.5" fill="#9CABBF"/>
+ <text x="1200" y="122" text-anchor="end" font-family="monospace" font-size="14" fill="#9CABBF">dhaval.profile</text>
+ <g font-family="monospace" font-size="18">
+  <text x="742" y="177" fill="#9CABBF">&#123;</text>
+  <text x="760" y="209"><tspan fill="#B8ABFF">role</tspan><tspan fill="#9CABBF">: </tspan><tspan fill="#F4F7FC">"Founder",</tspan></text>
+  <text x="760" y="241"><tspan fill="#B8ABFF">focus</tspan><tspan fill="#9CABBF">: </tspan><tspan fill="#F4F7FC">["AI", "Web", "Mobile"],</tspan></text>
+  <text x="760" y="273"><tspan fill="#B8ABFF">mindset</tspan><tspan fill="#9CABBF">: </tspan><tspan fill="#6FE4D5">"Build for people"</tspan></text>
+  <text x="742" y="305" fill="#9CABBF">&#125;</text>
+ </g>
+ <path d="M56 380H1224" stroke="#26344B"/>
+ <g font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">
+  <text x="58" y="417" fill="#9CABBF"><tspan fill="#6FE4D5">01</tspan> / THINK CLEARLY</text>
+  <text x="452" y="417" fill="#9CABBF"><tspan fill="#6FE4D5">02</tspan> / BUILD WITH CARE</text>
+  <text x="906" y="417" fill="#9CABBF"><tspan fill="#6FE4D5">03</tspan> / KEEP IMPROVING</text>
+ </g>
+ <rect x="0" y="452" width="1280" height="4" fill="url(#beam)"/>
+</g>
+<rect x="1" y="1" width="1278" height="454" rx="24" fill="none" stroke="#26344B"/>
+</svg>

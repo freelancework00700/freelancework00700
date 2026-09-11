@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="172" viewBox="0 0 580 172" role="img" aria-label="Hangtime - Community &amp; Events">
+<title>Hangtime - Community &amp; Events</title>
+<rect width="580" height="172" rx="12" fill="#101B2D"/>
+<path d="M365 0v172" stroke="#26354B"/>
+<circle cx="481" cy="85" r="106" fill="none" stroke="#26354B"/>
+<g fill="none" stroke="#99CAFF" stroke-width="2.5" opacity="0.8"><rect x="418" y="34" width="114" height="80" rx="16"/><path d="m440 114-8 26 38-26"/><circle cx="445" cy="74" r="3"/><circle cx="475" cy="74" r="3"/><circle cx="505" cy="74" r="3"/></g>
+<text x="28" y="39" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#99CAFF">COMMUNITY &amp; EVENTS</text>
+<text x="27" y="87" font-family="Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.7" fill="#F3F6FC">Hangtime</text>
+<text x="28" y="137" font-family="monospace" font-size="12" fill="#A3B1C5">DI SOLUTIONS / SELECTED WORK 04</text>
+</svg>
