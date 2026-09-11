@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="456" viewBox="0 0 1280 456" role="img" aria-labelledby="title desc">
-<title id="title">Dhaval Bhanderi - Founder at DI Solutions</title>
+<title id="title">DI Solutions - AI, Web &amp; Mobile Product Engineering</title>
 <desc id="desc">Ideas into products. Products into impact. AI, web and mobile engineering.</desc>
 <defs>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#DFE8F1" stroke-width="1"/></pattern>
@@ -13,9 +13,9 @@
  <circle cx="1120" cy="118" r="165" fill="none" stroke="#D0DDE9"/>
  <circle cx="1120" cy="118" r="197" fill="none" stroke="#D0DDE9"/>
  <rect x="56" y="48" width="8" height="8" rx="2" fill="#087F75"/>
- <text x="78" y="58" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#4C6176">FOUNDER / DI SOLUTIONS</text>
- <text x="53" y="160" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#10233A">DHAVAL</text>
- <text x="53" y="250" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#10233A">BHANDERI<tspan fill="#087F75">.</tspan></text>
+ <text x="78" y="58" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#4C6176">AI / WEB / MOBILE / CLOUD</text>
+ <text x="53" y="160" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#10233A">DI</text>
+ <text x="53" y="250" font-family="Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#10233A">SOLUTIONS<tspan fill="#087F75">.</tspan></text>
  <text x="58" y="302" font-family="Arial, sans-serif" font-size="24" fill="#4C6176">Ideas into products.</text>
  <text x="58" y="334" font-family="Arial, sans-serif" font-size="24" fill="#10233A">Products into impact.</text>
  <rect x="714" y="94" width="510" height="242" rx="14" fill="#FFFFFF" stroke="#D0DDE9"/>
@@ -23,10 +23,10 @@
  <circle cx="739" cy="117" r="4.5" fill="#087F75"/>
  <circle cx="756" cy="117" r="4.5" fill="#6950B7"/>
  <circle cx="773" cy="117" r="4.5" fill="#4C6176"/>
- <text x="1200" y="122" text-anchor="end" font-family="monospace" font-size="14" fill="#4C6176">dhaval.profile</text>
+ <text x="1200" y="122" text-anchor="end" font-family="monospace" font-size="14" fill="#4C6176">di.solutions</text>
  <g font-family="monospace" font-size="18">
   <text x="742" y="177" fill="#4C6176">&#123;</text>
-  <text x="760" y="209"><tspan fill="#6950B7">role</tspan><tspan fill="#4C6176">: </tspan><tspan fill="#10233A">"Founder",</tspan></text>
+  <text x="760" y="209"><tspan fill="#6950B7">team</tspan><tspan fill="#4C6176">: </tspan><tspan fill="#10233A">"Product Engineering",</tspan></text>
   <text x="760" y="241"><tspan fill="#6950B7">focus</tspan><tspan fill="#4C6176">: </tspan><tspan fill="#10233A">["AI", "Web", "Mobile"],</tspan></text>
   <text x="760" y="273"><tspan fill="#6950B7">mindset</tspan><tspan fill="#4C6176">: </tspan><tspan fill="#087F75">"Build for people"</tspan></text>
   <text x="742" y="305" fill="#4C6176">&#125;</text>

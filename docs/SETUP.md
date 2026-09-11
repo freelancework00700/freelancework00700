@@ -1,4 +1,4 @@
-# Publish Dhaval's GitHub profile
+# Publish the DI Solutions GitHub profile
 
 ## Files to upload
 
@@ -14,14 +14,14 @@ YOUR-GITHUB-USERNAME/
   docs/                  # optional setup and content notes
 ```
 
-Do not upload the ZIP itself. Extract it first. Do not put the containing `dhaval-bhanderi-profile` folder inside the repository: its contents belong at the root.
+Do not upload the ZIP itself. Extract it first. Do not put the containing `di-solutions-profile` folder inside the repository: its contents belong at the root.
 
 ## Publish through GitHub
 
-1. Sign in to Dhaval's own GitHub account.
+1. Sign in to the DI Solutions GitHub account.
 2. Create a PUBLIC repository whose name exactly matches his GitHub username. For example, an account named `example-user` needs `example-user/example-user`. That is an example, not an assumed username.
 3. Add the provided `README.md` and `assets` folder to the root. On GitHub, use **Add file > Upload files**, then commit to the default branch.
-4. Open Dhaval's profile and check the result.
+4. Open the DI Solutions GitHub profile and check the result.
 
 For an existing profile repository, preserve any existing content you still need and update these files through a normal commit. Do not delete unrelated files or force-push.
 
@@ -37,9 +37,9 @@ Official instructions:
 
 These settings are separate from the README. They are suggested text, not account changes already performed.
 
-**Name:** Dhaval Bhanderi
+**Name:** DI Solutions
 
-**Bio:** Founder at DI Solutions | Building AI, web & mobile products | Practical engineering. Long-term partnerships.
+**Bio:** AI, web & mobile product engineering | Cloud, automation & long-term software partnerships.
 
 **Company:** DI Solutions
 
