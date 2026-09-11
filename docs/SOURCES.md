@@ -2,9 +2,9 @@
 
 Prepared on 11 September 2026. These notes do not appear in the profile README.
 
-## Professional identity
+## Company profile
 
-[Dhaval's public DI Solutions profile on Fiverr](https://www.fiverr.com/dhaval_bhanderi) explicitly identifies Dhaval Bhanderi as the founder of DI Solutions and lists mobile/web technologies including React Native, Ionic, .NET, Swift, Kotlin, Node.js, React, Next.js, and Angular. Its skills section includes Python and TypeScript.
+[DI Solutions' public Fiverr profile](https://www.fiverr.com/dhaval_bhanderi) supports the company's software-development positioning and lists mobile/web technologies including React Native, Ionic, .NET, Swift, Kotlin, Node.js, React, Next.js, and Angular. Its skills section includes Python and TypeScript.
 
 [DI Solutions about page](https://disolutions.net/about-us) supports the company positioning around startups, growing businesses, web/mobile products, AI, and ongoing delivery. [The contact page](https://disolutions.net/contact-us) supports Surat as the company location and `solutions@disolutions.net` as a company contact.
 
@@ -17,7 +17,7 @@ The LinkedIn URL was supplied by the user and included exactly as given: https:/
 - [.NET engineering](https://disolutions.net/hire-us/hire-dotnet-developers) supports APIs, integrations, Azure deployments, CI/CD, and modernization.
 - [Company case studies](https://disolutions.net/case-study) list Firebase among the SOL Decoder technologies.
 
-These are team capabilities. They are not represented as proof that Dhaval personally authored every project or is an expert in every displayed technology.
+These are DI Solutions team capabilities and are presented as company-level experience.
 
 ## Selected company work
 
