@@ -1,5 +1,5 @@
 <!--
-  Dhaval Bhanderi | GitHub profile README
+  DI solutions | GitHub profile README
   Keep README.md at the root of your public username/username repository.
   Upload the entire assets folder with this file. No username is hard-coded.
   Publishing instructions: docs/SETUP.md. Content notes: docs/SOURCES.md.
@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" alt="Dhaval Bhanderi - Founder at DI Solutions. Ideas into products. Products into impact." width="100%">
+  <img src="./assets/hero-dark.svg" alt="DI solutions - Founder at DI Solutions. Ideas into products. Products into impact." width="100%">
 </picture>
 
 <br>
